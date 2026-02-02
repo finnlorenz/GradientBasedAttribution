@@ -66,10 +66,10 @@ Required packages:
 EXECUTION
 ---------
 Run experiments:
-    python Experiments.ipynb
+    Experiments.ipynb
 
 Run analysis:
-    python Analyse.ipynb
+    Analyse.ipynb
 
 Outputs:
 - Training results saved to: results/
