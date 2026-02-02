@@ -1,4 +1,3 @@
-"""
 Studying Gradient-Based Attribution Over Training Epochs
 ========================================================
 
@@ -82,4 +81,3 @@ EXPECTED RUNTIME
 - GPU recommended: ~1–2 hours
 
 All results and figures can be reproduced without modifying the code.
-"""
